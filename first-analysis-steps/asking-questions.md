@@ -24,6 +24,12 @@ For more general questions [Stack Overflow](http://stackoverflow.com/) and
 [Google](http://google.com) are good starting places.
 {% endcallout %} 
 
+{% callout "mattermost" %}
+Throwback to early 2000s: go to https://mattermost.web.cern.ch
+Here you find public and private channels. Have a good look at all the channels available and choose the ones you want to join.
+If the problem you are having is not addressed in any of the channels you should create a new one.
+
+
 {% callout "LHCb Q&A" %}
 Another experimental alternative to the mailing lists is the [LHCb Questions and 
 Answers website](https://lhcbqa.web.cern.ch/lhcbqa/).
