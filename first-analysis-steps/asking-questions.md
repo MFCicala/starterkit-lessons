@@ -28,6 +28,7 @@ For more general questions [Stack Overflow](http://stackoverflow.com/) and
 Throwback to early 2000s: go to https://mattermost.web.cern.ch
 Here you find public and private channels. Have a good look at all the channels available and choose the ones you want to join.
 If the problem you are having is not addressed in any of the channels you should create a new one.
+{% endcallout %} 
 
 
 {% callout "LHCb Q&A" %}
